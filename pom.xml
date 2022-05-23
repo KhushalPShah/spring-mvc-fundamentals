@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>conference-app</artifactId>
-	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>conference-app</name>
 	<description>Demo project for Spring MVC</description>
